@@ -1,0 +1,15 @@
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/bin/Release/net7.0/dotNetWSB
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/bin/Release/net7.0/dotNetWSB.deps.json
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/bin/Release/net7.0/dotNetWSB.runtimeconfig.json
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/bin/Release/net7.0/dotNetWSB.dll
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/bin/Release/net7.0/dotNetWSB.pdb
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.csproj.AssemblyReference.cache
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.AssemblyInfoInputs.cache
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.AssemblyInfo.cs
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.csproj.CoreCompileInputs.cache
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.dll
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/refint/dotNetWSB.dll
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.pdb
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/dotNetWSB.genruntimeconfig.cache
+/Users/gkk/Projects/dotNetWSB/dotNetWSB/obj/Release/net7.0/ref/dotNetWSB.dll
