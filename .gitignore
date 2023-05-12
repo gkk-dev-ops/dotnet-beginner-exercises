@@ -1,3 +1,6 @@
+dotNetWSB/bin
+dotNetWSB/obj
+
 # globs
 Makefile.in
 *.userprefs
